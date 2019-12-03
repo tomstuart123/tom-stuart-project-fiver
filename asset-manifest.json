@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tom-stuart-project-fiver/static/css/main.fd33ce80.chunk.css",
+    "main.js": "/tom-stuart-project-fiver/static/js/main.b76d6c55.chunk.js",
+    "main.js.map": "/tom-stuart-project-fiver/static/js/main.b76d6c55.chunk.js.map",
+    "runtime-main.js": "/tom-stuart-project-fiver/static/js/runtime-main.758e2bac.js",
+    "runtime-main.js.map": "/tom-stuart-project-fiver/static/js/runtime-main.758e2bac.js.map",
+    "static/js/2.8d8b87a2.chunk.js": "/tom-stuart-project-fiver/static/js/2.8d8b87a2.chunk.js",
+    "static/js/2.8d8b87a2.chunk.js.map": "/tom-stuart-project-fiver/static/js/2.8d8b87a2.chunk.js.map",
+    "index.html": "/tom-stuart-project-fiver/index.html",
+    "precache-manifest.178447595ea5c0f0b5822aabdff15575.js": "/tom-stuart-project-fiver/precache-manifest.178447595ea5c0f0b5822aabdff15575.js",
+    "service-worker.js": "/tom-stuart-project-fiver/service-worker.js",
+    "static/css/main.fd33ce80.chunk.css.map": "/tom-stuart-project-fiver/static/css/main.fd33ce80.chunk.css.map",
+    "static/media/App.css": "/tom-stuart-project-fiver/static/media/manu-schwendener-g0OT8TogXng-unsplash.93009fe8.jpg",
+    "static/media/nigel-tadyanehondo-pXf4OH65OhE-unsplash.jpg": "/tom-stuart-project-fiver/static/media/nigel-tadyanehondo-pXf4OH65OhE-unsplash.a1bc7900.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.758e2bac.js",
+    "static/js/2.8d8b87a2.chunk.js",
+    "static/css/main.fd33ce80.chunk.css",
+    "static/js/main.b76d6c55.chunk.js"
+  ]
+}
