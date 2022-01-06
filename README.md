@@ -1,4 +1,4 @@
-I played around with a ChatApp. It was bootstrapped with React App
+I played around with a ChatApp that could be used by me and few close people. It was bootstrapped with React App. Simple but stopped it when I realised UX got too bloated.
 
 ## Available Scripts
 
