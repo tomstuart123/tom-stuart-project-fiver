@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I played around with a ChatApp. It was bootstrapped with React App
 
 ## Available Scripts
 
